@@ -160,4 +160,4 @@ If you have any questions about web development, writing mistake-free documentat
 <a href="abeferrer7@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 
 ------
-Credit: [ElPerlita7](https://github.com/ElPErlita7)HOla
+Credit: [ElPerlita7](https://github.com/ElPErlita7)
